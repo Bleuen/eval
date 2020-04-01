@@ -10,10 +10,13 @@ table{
 }
 section, div{
     display: block;
-    background-color: blue;
+    background-color: cornflowerblue;
     height: 100px;
     width: 100px;
     margin: 5px;
+    text-align: center;
+    
+    
 }
 #loupe {
     position:absolute;
