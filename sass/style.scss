@@ -1,6 +1,28 @@
 body{
     background-color:rgb(170, 182, 170);
 }
-table, td{
+table, thead{
     border: 1px solid #333;
+    
+}
+table{
+    position: initial;
+}
+section, div{
+    display: block;
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+#loupe {
+    position:absolute;
+    right:5px;
+    top:-90px;
+    display:inline-block;
+    background:#eee;
+    border:1px solid #DD4B39;
+    font-size:4em;
+    font-weight:700;
+    padding:10px;
 }
