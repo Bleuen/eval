@@ -1,3 +1,7 @@
 body {
-  background-color: green;
+  background-color: #aab6aa;
+}
+
+table, td {
+  border: 1px solid #333;
 }
